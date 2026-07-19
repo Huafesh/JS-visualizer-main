@@ -1,14 +1,29 @@
-# JS-visualizer-main
+# 🌈 JS Audio Visualizer
 
-Este repositorio contiene el código del proyecto **JS-visualizer-main**, clasificado como **Proyecto de Código Fuente**.
+Un visualizador de audio minimalista de alto rendimiento codificado en JavaScript nativo. Muestra el comportamiento del sonido a través de barras animadas dinámicamente según las frecuencias espectrales del audio.
 
-## Tecnologías Utilizadas
+---
 
-- JavaScript / Otros
+## 🚀 Características Principales
+
+* Procesamiento de audio nativo mediante Web Audio API.
+* Lienzo de dibujo optimizado con `requestAnimationFrame`.
+* Estructura minimalista de código limpio en un solo archivo de script principal.
+
+---
+
+## 🛠️ Tecnologías Utilizadas
+
+* JavaScript (ES6)
+* HTML5 Canvas
+* Web Audio API
+
+---
 
 ### Ejecución
 
-1. Explora el código fuente en este repositorio para comprender su funcionamiento.
+1. Levanta un servidor local en esta carpeta (ejemplo: `python -m http.server 8000`).
+2. Abre `http://localhost:8000` en tu navegador y selecciona tu música favorita.
 
 ---
-*Generado automáticamente para la organización y catalogación de proyectos.*
+*Este repositorio ha sido configurado y catalogado automáticamente.*
